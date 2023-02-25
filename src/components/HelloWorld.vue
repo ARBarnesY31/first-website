@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1> EngLang </h1>
+    <h1> EngLanG </h1>
     <p> {{question}} </p>
     <b-button>Button</b-button>
 
